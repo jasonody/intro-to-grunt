@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-grunt",
+  "version": "1.0.0",
+  "description": "An introduction to using GruntJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonody/intro-to-grunt.git"
+  },
+  "author": "Jason Ody",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-csslint": "^0.3.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-htmlhint": "^0.4.1",
+    "grunt-processhtml": "^0.3.3"
+  }
+}
